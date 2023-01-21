@@ -1,0 +1,8 @@
+{
+  "departments": [
+    {
+      "amount_of_workers": 2,
+      "name": "politechnika"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "departments": [
+    {
+      "amount_of_workers": 2,
+      "name": "politechnika"
+    },
+    {
+      "amount_of_workers": 5,
+      "name": "ug"
+    }
+  ]
+}

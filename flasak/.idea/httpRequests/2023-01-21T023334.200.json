@@ -1,0 +1,37 @@
+[
+  {
+    "e": {
+      "name": "Mateusz",
+      "post": "teacher",
+      "surname": "Miotkowski"
+    }
+  },
+  {
+    "e": {
+      "name": "Antonius",
+      "post": "student",
+      "surname": "Ivanovski"
+    }
+  },
+  {
+    "e": {
+      "name": "Antonij",
+      "post": "student",
+      "surname": "Ivanov"
+    }
+  },
+  {
+    "e": {
+      "name": "Lukasz",
+      "post": "teacher",
+      "surname": "Mielewczyk"
+    }
+  },
+  {
+    "e": {
+      "name": "Pawel",
+      "post": "student",
+      "surname": "Dybko"
+    }
+  }
+]
